@@ -30,3 +30,7 @@ HTTP POST requests body examples
 
 
 GET requests: Conent-Type application/json
+
+=======
+
+files in the directory simple_examples can be ignored, I just used it to understand part of concept
